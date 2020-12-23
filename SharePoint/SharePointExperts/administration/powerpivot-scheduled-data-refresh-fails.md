@@ -11,7 +11,7 @@ ms.topic: article
 ms.service: sharepoint-online
 ms.custom: CSSTroubleshoot
 appliesto:
-- SharePoint Server 2016
+- SharePoint Server 2016, SharePoint Server 201
 ---
 
 # PowerPivot scheduled data refresh fails with the error "The operation has timed out"
